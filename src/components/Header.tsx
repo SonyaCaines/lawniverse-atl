@@ -24,11 +24,11 @@ const Header = () => {
             <div className="hidden lg:flex items-center gap-4 text-sm">
               <div className="flex items-center gap-1 text-muted-foreground">
                 <Phone className="h-4 w-4" />
-                <span>(404) 555-LAWN</span>
+                <span>(770) 672-5990</span>
               </div>
               <div className="flex items-center gap-1 text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>info@greenscapeatlanta.com</span>
+                <span>greenscapeatlanta@gmail.com</span>
               </div>
             </div>
             <Button variant="hero" size="sm">Get Quote</Button>
