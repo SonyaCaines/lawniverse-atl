@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom landscaping colors
+				'forest-green': 'hsl(var(--forest-green))',
+				'grass-green': 'hsl(var(--grass-green))',
+				'earth-brown': 'hsl(var(--earth-brown))',
+				'sage-green': 'hsl(var(--sage-green))',
+				'nature-gold': 'hsl(var(--nature-gold))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',

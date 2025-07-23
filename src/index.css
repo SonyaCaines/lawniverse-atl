@@ -8,26 +8,43 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --background: 120 20% 98%;
+    --foreground: 140 30% 15%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 120 40% 96%;
+    --card-foreground: 140 30% 15%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 120 40% 96%;
+    --popover-foreground: 140 30% 15%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 140 60% 25%;
+    --primary-foreground: 120 40% 98%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 120 30% 88%;
+    --secondary-foreground: 140 50% 20%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 120 20% 92%;
+    --muted-foreground: 140 15% 55%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 35 40% 65%;
+    --accent-foreground: 140 30% 15%;
+
+    /* Custom landscaping colors */
+    --forest-green: 140 60% 25%;
+    --grass-green: 110 50% 45%;
+    --earth-brown: 35 40% 35%;
+    --sage-green: 120 25% 70%;
+    --nature-gold: 45 60% 60%;
+
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(var(--forest-green)), hsl(var(--grass-green)));
+    --gradient-card: linear-gradient(180deg, hsl(var(--background)), hsl(var(--sage-green) / 0.1));
+    --gradient-accent: linear-gradient(90deg, hsl(var(--grass-green)), hsl(var(--nature-gold)));
+
+    /* Shadows */
+    --shadow-natural: 0 8px 32px hsl(var(--forest-green) / 0.15);
+    --shadow-card: 0 4px 20px hsl(var(--forest-green) / 0.1);
+    --shadow-button: 0 4px 12px hsl(var(--forest-green) / 0.2);
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
