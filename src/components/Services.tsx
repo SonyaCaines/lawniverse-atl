@@ -18,7 +18,7 @@ const Services = () => {
       icon: TreePine,
       title: "Landscape Design & Installation",
       description: "Transform your outdoor space with custom landscape solutions",
-      price: "Starting at $2,500",
+      price: "Starting at $1,500",
       features: ["Custom Design", "Plant Selection", "Hardscaping", "Installation"],
       image: landscapeDesignImage
     },
