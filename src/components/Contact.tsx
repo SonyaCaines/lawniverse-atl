@@ -43,11 +43,11 @@ const Contact = () => {
               </div>
               <div>
                 <label className="text-sm font-medium text-foreground">Phone</label>
-                <Input type="tel" placeholder="(770) 672-5990" className="mt-1" />
+                <Input type="tel" placeholder="(404) 555-0123" className="mt-1" />
               </div>
               <div>
                 <label className="text-sm font-medium text-foreground">Property Address</label>
-                <Input placeholder="Atlanta, GA 30309" className="mt-1" />
+                <Input placeholder="123 Main St, Atlanta, GA 30309" className="mt-1" />
               </div>
               <div>
                 <label className="text-sm font-medium text-foreground">Services Needed</label>
@@ -115,7 +115,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Business Hours</h3>
                     <div className="space-y-1 text-muted-foreground">
-                      <p>Monday - Friday: 7:00 AM - 6:00 PM</p>
+                      <p>Monday - Friday: 8:00 AM - 4:00 PM</p>
                       <p>Saturday: 8:00 AM - 4:00 PM</p>
                       <p>Sunday: Closed</p>
                     </div>
