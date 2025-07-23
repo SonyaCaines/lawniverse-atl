@@ -69,7 +69,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-primary mt-1" />
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Call Us Today</h3>
-                    <p className="text-muted-foreground mb-2">(404) 555-LAWN (5296)</p>
+                    <p className="text-muted-foreground mb-2">(770) 672-5990</p>
                     <p className="text-sm text-muted-foreground">
                       Free estimates and consultations available
                     </p>
@@ -115,7 +115,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Business Hours</h3>
                     <div className="space-y-1 text-muted-foreground">
-                      <p>Monday - Friday: 8:00 AM - 4:00 PM</p>
+                      <p>Monday - Friday: 7:00 AM - 6:00 PM</p>
                       <p>Saturday: 8:00 AM - 4:00 PM</p>
                       <p>Sunday: Closed</p>
                     </div>
