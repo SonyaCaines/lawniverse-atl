@@ -53,7 +53,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-2 text-white/80">
                 <Phone className="h-4 w-4" />
-                <span>(404) 555-LAWN</span>
+                <span>(770) 672-5990</span>
               </div>
               <div className="flex items-center gap-2 text-white/80">
                 <Mail className="h-4 w-4" />
@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60">
-          <p>&copy; 2024 GreenScape Atlanta. All rights reserved.</p>
+          <p>&copy; 2025 GreenScape Atlanta. All rights reserved.</p>
         </div>
       </div>
     </footer>
