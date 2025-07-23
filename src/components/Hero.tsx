@@ -36,8 +36,7 @@ const Hero = () => {
               Get Free Quote <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8 bg-white/10 border-white/30 text-white hover:bg-white/20">
-              View Services
-              <a href="#services"</a>
+              View Services 
             </Button>
           </div>
           
