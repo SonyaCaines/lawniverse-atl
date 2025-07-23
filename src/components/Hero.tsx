@@ -37,6 +37,7 @@ const Hero = () => {
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8 bg-white/10 border-white/30 text-white hover:bg-white/20">
               View Services
+              <a href="#services"</a>
             </Button>
           </div>
           
