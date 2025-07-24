@@ -28,7 +28,7 @@ const Header = () => {
               </div>
               <div className="flex items-center gap-1 text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>greenscapeatlanta@gmail.com</span>
+                <span>info@greenscapeatlanta.com</span>
               </div>
             </div>
             <Button variant="hero" size="sm">Get Quote</Button>
